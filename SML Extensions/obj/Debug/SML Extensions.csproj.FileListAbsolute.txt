@@ -1,0 +1,19 @@
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\bin\Debug\SVM.deps.json
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\bin\Debug\SVM.runtimeconfig.json
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\bin\Debug\Sample.sml
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\bin\Debug\SVM.exe
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\bin\Debug\SML Extensions.deps.json
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\bin\Debug\SML Extensions.dll
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\bin\Debug\SML Extensions.pdb
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.AssemblyReference.cache
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\SML_Extensions.ImageDisplay.resources
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.GenerateResource.cache
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\SML Extensions.GeneratedMSBuildEditorConfig.editorconfig
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\SML Extensions.AssemblyInfoInputs.cache
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\SML Extensions.AssemblyInfo.cs
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\SML Extensions.csproj.CopyComplete
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\SML Extensions.dll
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\refint\SML Extensions.dll
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\SML Extensions.pdb
+\\adir.hull.ac.uk\home\679\679476\700112\CourseWork\SVM\SML Extensions\obj\Debug\ref\SML Extensions.dll

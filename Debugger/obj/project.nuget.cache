@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "isAPhjkCkjNFCdfCcgfqGwiOXw0oUBGVvQJD3xwY/hpWqE0iKCyj17JiQdZDUXlyM7HRKvrxoZR2Lqp287nthA==",
+  "success": true,
+  "projectFilePath": "\\\\adir.hull.ac.uk\\home\\679\\679476\\Desktop\\SVM\\Debugger\\Debugger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\679476\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.28\\microsoft.windows.sdk.net.ref.10.0.17763.28.nupkg.sha512"
+  ],
+  "logs": []
+}
